@@ -1,0 +1,15 @@
+K:\Cloud_Eng\AMER\pro1\bin\Debug\net7.0\pro1.exe
+K:\Cloud_Eng\AMER\pro1\bin\Debug\net7.0\pro1.deps.json
+K:\Cloud_Eng\AMER\pro1\bin\Debug\net7.0\pro1.runtimeconfig.json
+K:\Cloud_Eng\AMER\pro1\bin\Debug\net7.0\pro1.dll
+K:\Cloud_Eng\AMER\pro1\bin\Debug\net7.0\pro1.pdb
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.csproj.AssemblyReference.cache
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.GeneratedMSBuildEditorConfig.editorconfig
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.AssemblyInfoInputs.cache
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.AssemblyInfo.cs
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.csproj.CoreCompileInputs.cache
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.dll
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\refint\pro1.dll
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.pdb
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\pro1.genruntimeconfig.cache
+K:\Cloud_Eng\AMER\pro1\obj\Debug\net7.0\ref\pro1.dll
