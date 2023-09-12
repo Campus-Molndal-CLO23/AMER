@@ -11,7 +11,7 @@ while  (b = true)
 {
     Console.WriteLine("välja skepp (1, 2 eller 3)");
     string skeppsVal = Console.ReadLine();
-;       switch (skeppsVal)
+          switch (skeppsVal)
             {
 
             case "1":
