@@ -1,0 +1,15 @@
+K:\Cloud_Eng\AMER\Karaktärsval\bin\Debug\net7.0\Karaktärsval.exe
+K:\Cloud_Eng\AMER\Karaktärsval\bin\Debug\net7.0\Karaktärsval.deps.json
+K:\Cloud_Eng\AMER\Karaktärsval\bin\Debug\net7.0\Karaktärsval.runtimeconfig.json
+K:\Cloud_Eng\AMER\Karaktärsval\bin\Debug\net7.0\Karaktärsval.dll
+K:\Cloud_Eng\AMER\Karaktärsval\bin\Debug\net7.0\Karaktärsval.pdb
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.csproj.AssemblyReference.cache
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.GeneratedMSBuildEditorConfig.editorconfig
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.AssemblyInfoInputs.cache
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.AssemblyInfo.cs
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.csproj.CoreCompileInputs.cache
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.dll
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\refint\Karaktärsval.dll
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.pdb
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\Karaktärsval.genruntimeconfig.cache
+K:\Cloud_Eng\AMER\Karaktärsval\obj\Debug\net7.0\ref\Karaktärsval.dll
