@@ -1,0 +1,15 @@
+K:\Cloud_Eng\AMER\Rymdskepp\bin\Debug\net7.0\Rymdskepp.exe
+K:\Cloud_Eng\AMER\Rymdskepp\bin\Debug\net7.0\Rymdskepp.deps.json
+K:\Cloud_Eng\AMER\Rymdskepp\bin\Debug\net7.0\Rymdskepp.runtimeconfig.json
+K:\Cloud_Eng\AMER\Rymdskepp\bin\Debug\net7.0\Rymdskepp.dll
+K:\Cloud_Eng\AMER\Rymdskepp\bin\Debug\net7.0\Rymdskepp.pdb
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.csproj.AssemblyReference.cache
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.GeneratedMSBuildEditorConfig.editorconfig
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.AssemblyInfoInputs.cache
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.AssemblyInfo.cs
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.csproj.CoreCompileInputs.cache
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.dll
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\refint\Rymdskepp.dll
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.pdb
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\Rymdskepp.genruntimeconfig.cache
+K:\Cloud_Eng\AMER\Rymdskepp\obj\Debug\net7.0\ref\Rymdskepp.dll
