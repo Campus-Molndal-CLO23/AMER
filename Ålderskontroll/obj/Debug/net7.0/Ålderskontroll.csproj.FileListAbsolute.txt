@@ -1,0 +1,15 @@
+K:\Cloud_Eng\AMER\Ålderskontroll\bin\Debug\net7.0\Ålderskontroll.exe
+K:\Cloud_Eng\AMER\Ålderskontroll\bin\Debug\net7.0\Ålderskontroll.deps.json
+K:\Cloud_Eng\AMER\Ålderskontroll\bin\Debug\net7.0\Ålderskontroll.runtimeconfig.json
+K:\Cloud_Eng\AMER\Ålderskontroll\bin\Debug\net7.0\Ålderskontroll.dll
+K:\Cloud_Eng\AMER\Ålderskontroll\bin\Debug\net7.0\Ålderskontroll.pdb
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.csproj.AssemblyReference.cache
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.GeneratedMSBuildEditorConfig.editorconfig
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.AssemblyInfoInputs.cache
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.AssemblyInfo.cs
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.csproj.CoreCompileInputs.cache
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.dll
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\refint\Ålderskontroll.dll
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.pdb
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\Ålderskontroll.genruntimeconfig.cache
+K:\Cloud_Eng\AMER\Ålderskontroll\obj\Debug\net7.0\ref\Ålderskontroll.dll
